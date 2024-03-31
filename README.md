@@ -1,1 +1,1 @@
-# -DSwP-Wprowadzenie-do-j-zyka-Python
+# -DSwP-Wprowadzenie-do-jezyka-Python
